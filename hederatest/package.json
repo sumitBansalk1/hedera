@@ -1,0 +1,23 @@
+{
+  "name": "hederatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node task1/main.js",
+    "task2": "node task2/main.js",
+    "task3": "node task3/main.js",
+    "task4": "node task4/main.js",
+    "task5": "node task5/main.js",
+    "task6": "node task6/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.25.0",
+    "config": "^3.3.9",
+    "dotenv": "^16.0.3",
+    "web3": "^1.10.0"
+  }
+}
